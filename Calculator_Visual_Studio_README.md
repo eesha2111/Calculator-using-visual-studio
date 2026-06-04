@@ -2,7 +2,6 @@
 
 A simple C# Windows Forms calculator application built using Microsoft Visual Studio. The calculator provides a desktop interface for performing basic arithmetic operations with a clean button-based layout and calculation history support.
 
-Repository: [eesha2111/Calculator-using-visual-studio](https://github.com/eesha2111/Calculator-using-visual-studio)
 
 ## Overview
 
